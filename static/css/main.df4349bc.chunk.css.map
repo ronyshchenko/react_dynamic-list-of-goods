@@ -1,0 +1,1 @@
+{"version":3,"sources":["Goods.scss"],"names":[],"mappings":"AAAA,KACE,SAAU,CACX,OAGC,WAAY,CACb,MAGC,UAAW","file":"main.df4349bc.chunk.css","sourcesContent":[".red {\r\n  color: red;\r\n}\r\n\r\n.green {\r\n  color: green;\r\n}\r\n\r\n.blue {\r\n  color: blue;\r\n}\r\n"]}
